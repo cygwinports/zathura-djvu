@@ -1,6 +1,6 @@
 NAME="zathura-djvu"
-VERSION=0.2.3
-RELEASE=2
+VERSION=0.2.4
+RELEASE=1
 CATEGORY="Graphics"
 SUMMARY="DjVu support for Zathura viewer"
 DESCRIPTION="zathura is a highly customizable and functional document viewer.
